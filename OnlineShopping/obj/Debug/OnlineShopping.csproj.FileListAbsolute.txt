@@ -1,0 +1,9 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OnlineShopping\OnlineShopping\bin\Debug\OnlineShopping.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OnlineShopping\OnlineShopping\bin\Debug\OnlineShopping.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OnlineShopping\OnlineShopping\bin\Debug\OnlineShopping.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.Form1.resources
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.Properties.Resources.resources
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.csproj.GenerateResource.Cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.pdb
